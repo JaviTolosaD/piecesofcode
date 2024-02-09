@@ -1,0 +1,3 @@
+/path/to/hdfs/folder1
+/path/to/hdfs/folder2
+/path/to/hdfs/folder3
