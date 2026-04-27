@@ -13,8 +13,8 @@ def extract_file_from_jar(jar_file, file_to_extract, target_dir):
 ruta_jar = 'archivo.jar'
 
 # Directorio de destino para la extracción
-directorio_destino = 'extraccion2/'
-https://github.com/JaviTolosaD/piecesofcode.git
+directorio_destino = 'extraccion255/'
+
 # Descomprimir el archivo JAR
 unzip_jar(ruta_jar, directorio_destino)
 
@@ -23,3 +23,11 @@ archivo_a_extraer = 'mifichero.properties'
 extract_file_from_jar(ruta_jar, archivo_a_extraer, directorio_destino)
 
 print(f"El archivo '{archivo_a_extraer}' ha sido extraído exitosamente en '{directorio_destino}'.")
+
+
+PS C:\Users\tolos\Tests\piecesofcode> git status
+On branch Test001
+Your branch is ahead of 'origin/Test001' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
